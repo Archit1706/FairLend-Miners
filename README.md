@@ -3,7 +3,7 @@
 Auditing discriminatory patterns in U.S. mortgage lending using fairness-aware preprocessing and association rule mining.
 
 **Team:** Archit Rathod, Dhwani Chande, Het Nagda  
-**Course:** CS 483 Big Data Mining, Spring 2025, UIC  
+**Course:** CS 483 Big Data Mining  
 **Instructor:** Prof. Abolfazl Asudeh
 
 ## Dataset
