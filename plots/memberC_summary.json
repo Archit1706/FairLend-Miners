@@ -1,0 +1,15 @@
+{
+  "best_k": 5,
+  "k_floor": 4,
+  "features": [
+    "income",
+    "loan_amount",
+    "dti_numeric",
+    "combined_loan_to_value_ratio"
+  ],
+  "silhouette_at_best_k": 0.4176208406021451,
+  "wcss_at_best_k": 175597.29340148254,
+  "rows_clustered": 99524,
+  "overall_denial_rate": 0.2349383063381697,
+  "disparate_impact_flags": 10
+}

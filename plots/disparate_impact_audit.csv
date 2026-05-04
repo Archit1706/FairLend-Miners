@@ -1,0 +1,46 @@
+cluster,attribute,reference,group,cluster_size,group_size,ref_size,group_denial%,ref_denial%,group_accept%,ref_accept%,DIR,flag
+0,derived_race,White,2 or more minority races,48783,136,33919,30.88,14.11,69.12,85.89,0.805,ok
+0,derived_race,White,American Indian or Alaska Native,48783,377,33919,26.79,14.11,73.21,85.89,0.852,ok
+0,derived_race,White,Asian,48783,3998,33919,15.66,14.11,84.34,85.89,0.982,ok
+0,derived_race,White,Black or African American,48783,9517,33919,26.76,14.11,73.24,85.89,0.853,ok
+0,derived_race,White,Joint,48783,761,33919,14.06,14.11,85.94,85.89,1.001,ok
+0,derived_race,White,Native Hawaiian or Other Pacific Islander,48783,75,33919,24.0,14.11,76.0,85.89,0.885,ok
+1,derived_race,White,American Indian or Alaska Native,20223,44,14869,29.55,9.01,70.45,90.99,0.774,DISPARATE_IMPACT
+1,derived_race,White,Asian,20223,3109,14869,8.81,9.01,91.19,90.99,1.002,ok
+1,derived_race,White,Black or African American,20223,1301,14869,24.98,9.01,75.02,90.99,0.824,ok
+1,derived_race,White,Joint,20223,858,14869,7.81,9.01,92.19,90.99,1.013,ok
+2,derived_race,White,2 or more minority races,11314,63,7526,85.71,76.81,14.29,23.19,0.616,DISPARATE_IMPACT
+2,derived_race,White,American Indian or Alaska Native,11314,128,7526,85.16,76.81,14.84,23.19,0.64,DISPARATE_IMPACT
+2,derived_race,White,Asian,11314,1075,7526,84.84,76.81,15.16,23.19,0.654,DISPARATE_IMPACT
+2,derived_race,White,Black or African American,11314,2372,7526,84.91,76.81,15.09,23.19,0.651,DISPARATE_IMPACT
+2,derived_race,White,Joint,11314,116,7526,77.59,76.81,22.41,23.19,0.967,ok
+2,derived_race,White,Native Hawaiian or Other Pacific Islander,11314,34,7526,94.12,76.81,5.88,23.19,0.254,DISPARATE_IMPACT
+3,derived_race,White,2 or more minority races,15680,33,12029,51.52,20.32,48.48,79.68,0.608,DISPARATE_IMPACT
+3,derived_race,White,American Indian or Alaska Native,15680,115,12029,38.26,20.32,61.74,79.68,0.775,DISPARATE_IMPACT
+3,derived_race,White,Asian,15680,1098,12029,21.13,20.32,78.87,79.68,0.99,ok
+3,derived_race,White,Black or African American,15680,2146,12029,44.78,20.32,55.22,79.68,0.693,DISPARATE_IMPACT
+3,derived_race,White,Joint,15680,222,12029,18.02,20.32,81.98,79.68,1.029,ok
+3,derived_race,White,Native Hawaiian or Other Pacific Islander,15680,37,12029,51.35,20.32,48.65,79.68,0.611,DISPARATE_IMPACT
+4,derived_race,White,Asian,3524,509,2702,11.2,10.21,88.8,89.79,0.989,ok
+4,derived_race,White,Black or African American,3524,125,2702,26.4,10.21,73.6,89.79,0.82,ok
+4,derived_race,White,Joint,3524,183,2702,4.92,10.21,95.08,89.79,1.059,ok
+0,derived_sex,Male,Female,48783,16023,20451,17.33,18.4,82.67,81.6,1.013,ok
+0,derived_sex,Male,Joint,48783,12309,20451,13.71,18.4,86.29,81.6,1.057,ok
+1,derived_sex,Male,Female,20223,3017,6501,11.4,13.21,88.6,86.79,1.021,ok
+1,derived_sex,Male,Joint,20223,10705,6501,7.73,13.21,92.27,86.79,1.063,ok
+2,derived_sex,Male,Female,11314,3889,4815,80.82,81.45,19.18,18.55,1.034,ok
+2,derived_sex,Male,Joint,11314,2610,4815,73.83,81.45,26.17,18.55,1.411,ok
+3,derived_sex,Male,Female,15680,4857,5504,26.09,30.0,73.91,70.0,1.056,ok
+3,derived_sex,Male,Joint,15680,5319,5504,15.77,30.0,84.23,70.0,1.203,ok
+4,derived_sex,Male,Female,3524,303,1151,14.52,14.68,85.48,85.32,1.002,ok
+4,derived_sex,Male,Joint,3524,2070,1151,7.87,14.68,92.13,85.32,1.08,ok
+0,derived_ethnicity,Not Hispanic or Latino,Hispanic or Latino,48783,12075,35446,16.46,16.96,83.54,83.04,1.006,ok
+0,derived_ethnicity,Not Hispanic or Latino,Joint,48783,1262,35446,17.99,16.96,82.01,83.04,0.988,ok
+1,derived_ethnicity,Not Hispanic or Latino,Hispanic or Latino,20223,1289,18051,18.08,9.5,81.92,90.5,0.905,ok
+1,derived_ethnicity,Not Hispanic or Latino,Joint,20223,883,18051,9.4,9.5,90.6,90.5,1.001,ok
+2,derived_ethnicity,Not Hispanic or Latino,Hispanic or Latino,11314,2435,8621,82.26,78.67,17.74,21.33,0.832,ok
+2,derived_ethnicity,Not Hispanic or Latino,Joint,11314,258,8621,80.23,78.67,19.77,21.33,0.927,ok
+3,derived_ethnicity,Not Hispanic or Latino,Hispanic or Latino,15680,2141,13204,35.73,22.01,64.27,77.99,0.824,ok
+3,derived_ethnicity,Not Hispanic or Latino,Joint,15680,335,13204,25.67,22.01,74.33,77.99,0.953,ok
+4,derived_ethnicity,Not Hispanic or Latino,Hispanic or Latino,3524,104,3294,21.15,10.35,78.85,89.65,0.88,ok
+4,derived_ethnicity,Not Hispanic or Latino,Joint,3524,126,3294,10.32,10.35,89.68,89.65,1.0,ok
